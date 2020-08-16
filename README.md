@@ -6,7 +6,7 @@ IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
 YOU MUST BE INFORMED BEFORE USING IT. DON'T TAKE RISKS.
 READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
 
-<img src="images/EMG-826_little.png" alt="drawing" width="300"/>
+<img src="images/sensor.png" alt="drawing" width="300"/>
 
 
 ## Description
