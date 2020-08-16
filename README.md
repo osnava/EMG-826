@@ -1,10 +1,10 @@
-# EMG-826
+# EMG-826 :muscle:
 
-## WARNING
-THIS IS NOT A MEDICAL DEVICE.
+## WARNING 
+:warning: THIS IS NOT A MEDICAL DEVICE.
 IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
 YOU MUST BE INFORMED BEFORE USING IT. DON'T TAKE RISKS.
-READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
+READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS. :warning:
 
 <img src="images/sensor.png" alt="drawing" width="300"/>
 
@@ -54,4 +54,7 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 
 Choose a muscle and make sure your skin is dry and clean. Put one electrode **(red)** in the middle of the muscle and another one at the end **(blue)**, put a third electrode **(black)** in a bony zone (e.g. elbow).
 
+```C++
+
+```
 
