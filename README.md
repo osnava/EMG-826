@@ -1,6 +1,6 @@
 # EMG-826
 
-## WARNING:
+## WARNING
 THIS IS NOT A MEDICAL DEVICE.
 IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
 YOU MUST BE INFORMED BEFORE USING IT. DON'T TAKE RISKS.
@@ -9,7 +9,7 @@ READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
 
 ![](images/EMG-826_little.png)
 
-## Description: 
+## Description
 In this repository you will find example codes to use you board. Stop complaining about using libraries, you don't need them: just plug and play!
 
 EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (surface Electromyography) sensor fully compatible with:
@@ -23,6 +23,12 @@ EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (su
 It has a varible resistor to amplify the output signal (Muscle pin). If you are curious about how a pure EMG signal looks, it has the Raw pin wich can be attached to an oscilloscope to see the pure signal.
 There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply. 
 If you want to use it with an Arduino board just connect 5V to the V+ pin and GND to GND pin. For the Raw signal you can supply up to 9V on the V+ pin.
+
+## Connections
+### Muscle
+
+<img id="Рисунок 281" src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image253.jpg" alt="" width="835" height="930">
+
 
 
 
