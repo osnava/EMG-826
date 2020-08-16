@@ -11,6 +11,6 @@ EMG-826 it's a sEMG (surface Electromyography) sensor fully compatible with Ardu
 There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply. 
 If you want to use it with an Arduino board just connect 5V to the V+ pin and GND to GND pin. For the Raw signal you can supply up to 9V on the V+ pin.
 
-                                                                          ![](images/EMG-826_little.png)
+![](images/EMG-826_little.png)
 
 
