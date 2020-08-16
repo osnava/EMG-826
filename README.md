@@ -11,7 +11,9 @@ READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
 
 ## Description: 
 In this repository you will find example codes to use you board.
+
 Stop complaining about using libraries, you don't need them: just plug and play!
+
 EMG-826 it's a sEMG (surface Electromyography) sensor fully compatible with:
 
 * Arduino
