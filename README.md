@@ -32,7 +32,7 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 
 #### Arm
 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image254.jpg" alt="drawing" width="50"/>  **Deltoid Muscle**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image254.jpg" alt="drawing" width="50"/>  **Deltoid Muscle** 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image255.jpg" alt="drawing" width="50"/>  **Flexor Muscle (Upper)**
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image256.jpg" alt="drawing" width="50"/>  **Extensor Muscle(Upper)**
 
@@ -49,14 +49,8 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image263.jpg" alt="drawing" width="50"/>  **Dorsal Interosseeous Muscle**
 
 #### Electrodes
-
+<img src="images/electrodo_red.png" alt="drawing" width="100"/>   <img src="images/electrodo_blue.png" alt="drawing" width="100"/>   <img src="images/electrodo_black.png" alt="drawing" width="100"/>
 
 Choose a muscle and make sure your skin is dry and clean. Put one electrode **(red)** in the middle of the muscle and another one at the end **(blue)**, put a third electrode **(black)** in a bony zone (e.g. elbow).
-
-
-
-
- 
-
 
 
