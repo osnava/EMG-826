@@ -48,14 +48,17 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image261.jpg" alt="drawing" width="50"/>  **Thenar Muscle**
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image262.jpg" alt="drawing" width="50"/>  **Hypothenar Muscle**
+
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image263.jpg" alt="drawing" width="50"/>  **Dorsal Interosseous Muscle**
 
 #### Electrodes
+
 <img src="images/electrodo_red.png" alt="drawing" width="100"/>   <img src="images/electrodo_blue.png" alt="drawing" width="100"/>   <img src="images/electrodo_black.png" alt="drawing" width="100"/>
 
 Choose a muscle and make sure your skin is dry and clean. Put one electrode **(red)** in the middle of the muscle and another one at the end **(blue)**, put a third electrode **(black)** in a bony zone (e.g. elbow).
 
 ## EMG-826 + Arduino
+
 To connect the sensor to Arduino you just need to follow the instructions in every code [here](codes/). You can use the image below as reference to make the appropriate connections.
 
 <img src="images/arduino.png" alt="drawing" width="800"/>
@@ -84,6 +87,7 @@ void loop() {
 }
 ```
 ## EMG-826 + Oscilloscope
+
 This sensor has a wide voltage supply range (5-9V). If you want to know how your raw EMG signal looks like, follow this image below:
 
 <img src="images/SCOPE.png" alt="drawing" width="1000"/>
