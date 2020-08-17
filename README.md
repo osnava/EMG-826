@@ -1,5 +1,7 @@
 # :muscle: EMG-826 
 It looks like your QR scanner worked perfectly. Enjoy this repository!
+
+To have a better visualization experience use your :computer:
 ## :warning: WARNING :warning:
 THIS IS NOT A MEDICAL DEVICE.
 IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
@@ -32,9 +34,9 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 #### Arm
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image254.jpg" alt="drawing" width="50"/>  **Deltoid Muscle** 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image255.jpg" alt="drawing" width="50"/>  **Flexor Muscle (Upper)**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image255.jpg" alt="drawing" width="50"/>  **Flexor Muscle**
 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image256.jpg" alt="drawing" width="50"/>  **Extensor Muscle(Upper)**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image256.jpg" alt="drawing" width="50"/>  **Extensor Muscle**
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image257.jpg" alt="drawing" width="50"/>  **Brachioradialis Muscle**
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image258.jpg" alt="drawing" width="50"/>  **Extensor Muscle (Superficial Layer)** 
