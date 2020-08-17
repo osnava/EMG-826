@@ -1,4 +1,5 @@
 # EMG-826 
+#### ***Know your strength!!!*** :muscle:
 
 It looks like your QR scanner worked perfectly. Enjoy this repository!
 
@@ -14,7 +15,6 @@ READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
 
 
 ## Description
-***Know your strength*** :muscle:
 
 In this repository you will find example codes to use your board. Stop complaining about using libraries, you don't need them: just plug and play!
 
