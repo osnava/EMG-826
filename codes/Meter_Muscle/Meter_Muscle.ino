@@ -4,7 +4,7 @@
 Arduino UNO   https://bit.ly/30Axk7l
 Arduino NANO  https://bit.ly/31uYJH1
 Arduino MEGA  https://bit.ly/3fxND9e
-EMG-826
+EMG-826       https://github.com/osnava/EMG-826/blob/master/images/sensor.png
 Red LED       https://bit.ly/31rkdVc
 
 -Connections:
