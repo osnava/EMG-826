@@ -62,6 +62,9 @@ You can begin to use this sensor by uploading this [code](codes/Plot_Muscle/Plot
 
 
 ```C++
+/*After uploading this code, type this commmand on your keyboard: ctrl + shift + L to
+visualize your muscle's activity.*/
+
 int Muscle; //Declare this variable to store analog read.
 
 void setup() {
