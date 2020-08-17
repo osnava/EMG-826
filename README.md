@@ -54,7 +54,7 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 Choose a muscle and make sure your skin is dry and clean. Put one electrode **(red)** in the middle of the muscle and another one at the end **(blue)**, put a third electrode **(black)** in a bony zone (e.g. elbow).
 
 ## EMG-826 + Arduino
-To connect the sensor to Arduino you just need follow the instruccions in every code [here](EMG-826/codes). You can use the image below as reference.
+To connect the sensor to Arduino you just need follow the instruccions in every code [here](EMG-826/codes/). You can use the image below as reference.
 
 <img src="images/arduino.png" alt="drawing" width="300"/>
 
