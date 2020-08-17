@@ -1,7 +1,9 @@
-# :muscle: EMG-826 
+# EMG-826 
+
 It looks like your QR scanner worked perfectly. Enjoy this repository!
 
 To have a better visualization experience use your :computer:
+
 ## :warning: WARNING :warning:
 THIS IS NOT A MEDICAL DEVICE.
 IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
@@ -12,6 +14,8 @@ READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
 
 
 ## Description
+***Know your strength*** :muscle:
+
 In this repository you will find example codes to use your board. Stop complaining about using libraries, you don't need them: just plug and play!
 
 EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (surface Electromyography) sensor fully compatible with:
