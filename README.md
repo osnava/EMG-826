@@ -54,12 +54,28 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 Choose a muscle and make sure your skin is dry and clean. Put one electrode **(red)** in the middle of the muscle and another one at the end **(blue)**, put a third electrode **(black)** in a bony zone (e.g. elbow).
 
 ## EMG-826 + Arduino
-To connect the sensor to Arduino you just need follow the instruccions in every code [here](codes/). You can use the image below as reference.
+To connect the sensor to Arduino you just need to follow the instruccions in every code [here](codes/). You can use the image below as reference.
 
 <img src="images/arduino.png" alt="drawing" width="300"/>
 
+You can begin to use this sensor by uploading this [code](codes/Plot_Muscle.ino) below:
+
 
 ```C++
+int Muscle; //Declare this variable to store analog read.
 
+void setup() {
+  Serial.begin(9600); //Begin serial communication.
+}
+
+void loop() {
+  Muscle = analogRead(A0); //Here A0 was chosen but you can choose any analog channel.
+  Serial.println(" ");
+  Serial.print(440);       //Select a value between 0-1023
+  Serial.print(" ");
+  Serial.print(0);    
+  Serial.print(" ");
+  Serial.println(Muscle); //Red signal
+}
 ```
 
