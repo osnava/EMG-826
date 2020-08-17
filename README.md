@@ -58,7 +58,7 @@ To connect the sensor to Arduino you just need to follow the instruccions in eve
 
 <img src="images/arduino.png" alt="drawing" width="300"/>
 
-You can begin to use this sensor by uploading this [code](codes/Plot_Muscle.ino) below:
+You can begin to use this sensor by uploading this [code](codes/Plot_Muscle/Plot_Muscle.ino) below:
 
 
 ```C++
