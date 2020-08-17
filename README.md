@@ -1,10 +1,10 @@
-# EMG-826 :muscle:
+# :muscle: EMG-826 
 
-## WARNING 
-:warning: THIS IS NOT A MEDICAL DEVICE.
+## :warning: WARNING :warning:
+THIS IS NOT A MEDICAL DEVICE.
 IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
 YOU MUST BE INFORMED BEFORE USING IT. DON'T TAKE RISKS.
-READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS. :warning:
+READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS. 
 
 <img src="images/sensor.png" alt="drawing" width="300"/>
 
@@ -24,8 +24,7 @@ It has a varible resistor to amplify the output signal (Muscle pin). If you are 
 There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply. 
 If you want to use it with an Arduino board just connect 5V to the V+ pin and GND to GND pin. For the Raw signal you can supply up to 9V on the V+ pin.
 
-## Connections
-### Muscle
+## Muscle conecctions 
 Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-human-anatomy-motion/7.html#:~:text=MUSCLE%20DIAGRAM)
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image253.jpg" alt="drawing" width="420"/>
@@ -53,6 +52,8 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 <img src="images/electrodo_red.png" alt="drawing" width="100"/>   <img src="images/electrodo_blue.png" alt="drawing" width="100"/>   <img src="images/electrodo_black.png" alt="drawing" width="100"/>
 
 Choose a muscle and make sure your skin is dry and clean. Put one electrode **(red)** in the middle of the muscle and another one at the end **(blue)**, put a third electrode **(black)** in a bony zone (e.g. elbow).
+
+
 
 ```C++
 
