@@ -37,7 +37,7 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image256.jpg" alt="drawing" width="50"/>  **Extensor Muscle(Upper)**
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image257.jpg" alt="drawing" width="50"/>  **Brachioradialis Muscle**
 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image258.jpg" alt="drawing" width="50"/>  **Extensor Muscle (Superfical Layer)** 
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image258.jpg" alt="drawing" width="50"/>  **Extensor Muscle (Superficial Layer)** 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image259.jpg" alt="drawing" width="50"/>  **Flexor Muscle (Lower)**
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image260.jpg" alt="drawing" width="50"/>  **Extensor Muscle (Deep Layer)**
@@ -46,7 +46,7 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image261.jpg" alt="drawing" width="50"/>  **Thenar Muscle**
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image262.jpg" alt="drawing" width="50"/>  **Hypothenar Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image263.jpg" alt="drawing" width="50"/>  **Dorsal Interosseeous Muscle**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image263.jpg" alt="drawing" width="50"/>  **Dorsal Interosseous Muscle**
 
 #### Electrodes
 <img src="images/electrodo_red.png" alt="drawing" width="100"/>   <img src="images/electrodo_blue.png" alt="drawing" width="100"/>   <img src="images/electrodo_black.png" alt="drawing" width="100"/>
