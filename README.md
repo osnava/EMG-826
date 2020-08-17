@@ -10,7 +10,7 @@ READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
 
 
 ## Description
-In this repository you will find example codes to use you board. Stop complaining about using libraries, you don't need them: just plug and play!
+In this repository you will find example codes to use your board. Stop complaining about using libraries, you don't need them: just plug and play!
 
 EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (surface Electromyography) sensor fully compatible with:
 
@@ -20,11 +20,11 @@ EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (su
 * MSP430
 * and more...
 
-It has a varible resistor to amplify the output signal (Muscle pin). If you are curious about how a pure EMG signal looks, it has the Raw pin wich can be attached to an oscilloscope to see the pure signal.
+It has a variable resistor to amplify the output signal (Muscle pin). If you are curious about how a pure EMG signal looks, it has the Raw pin wich can be attached to an oscilloscope to see the pure signal.
 There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply. 
 If you want to use it with an Arduino board just connect 5V to the V+ pin and GND to GND pin. For the Raw signal you can supply up to 9V on the V+ pin.
 
-## Muscle conecctions 
+## Muscle connections 
 Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-human-anatomy-motion/7.html#:~:text=MUSCLE%20DIAGRAM)
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image253.jpg" alt="drawing" width="420"/>
