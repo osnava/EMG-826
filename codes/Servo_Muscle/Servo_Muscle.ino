@@ -1,11 +1,11 @@
 /*Control a servo motor with your muscle
   @author   Oscar Navarrete
 -Pinout Diagrams:
-Arduino UNO  | https://bit.ly/30Axk7l
-Arduino NANO | https://bit.ly/31uYJH1
-Arduino MEGA | https://bit.ly/3fxND9e
-EMG-826      |
-SG90         | https://bit.ly/30A7gJw
+Arduino UNO   https://bit.ly/30Axk7l
+Arduino NANO  https://bit.ly/31uYJH1
+Arduino MEGA  https://bit.ly/3fxND9e
+EMG-826       https://github.com/osnava/EMG-826/blob/master/images/sensor.png
+SG90          https://bit.ly/30A7gJw
 
 -Connections:
 ---------------------------
