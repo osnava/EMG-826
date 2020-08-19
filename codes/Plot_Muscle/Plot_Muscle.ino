@@ -1,4 +1,4 @@
-/*Visualize your muscle activity in Arduino's Serial plotter
+/*💪 Visualize your muscle activity in Arduino's Serial plotter
   @author   Oscar Navarrete
 -Pinout Diagrams:
 Arduino UNO   https://bit.ly/30Axk7l
