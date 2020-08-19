@@ -1,4 +1,4 @@
-/*Control a servo motor with your muscle
+/*💪 Control a servo motor with your muscle
   @author   Oscar Navarrete
 -Pinout Diagrams:
 Arduino UNO   https://bit.ly/30Axk7l
