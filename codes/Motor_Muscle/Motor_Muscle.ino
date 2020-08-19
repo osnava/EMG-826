@@ -1,4 +1,4 @@
-/*Use your strength to control the speed and rotation direction of a DC motor with L298N driver
+/*💪 Use your strength to control the speed and rotation direction of a DC motor with L298N driver
  ⚠ IF YOU WANT THIS CODE TO PROPERLY WORK YOU MUST USE TWO EMG-826 SENSORS ⚠
 
   @author   Oscar Navarrete
