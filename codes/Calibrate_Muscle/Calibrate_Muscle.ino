@@ -1,6 +1,6 @@
 /*Use this code to calibrate your sensor. Know what's your minimum and maximum values.
   
-  @author   Oscar Navarrete 💪
+  @author   Oscar Navarrete 
 
 -Pinout Diagrams:
 Arduino UNO   https://bit.ly/30Axk7l
