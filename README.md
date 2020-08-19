@@ -16,7 +16,7 @@ READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
 
 ## Description
 
-In this repository you will find example codes to use your board. Stop complaining about using libraries, you don't need them: just plug and play!
+In this repository you will find example [codes](codes/) to use your board. Stop complaining about using libraries, you don't need them: just plug and play!
 
 EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (surface Electromyography) sensor fully compatible with:
 
