@@ -96,3 +96,9 @@ void loop() {
 This sensor has a wide voltage supply range (5-9V). If you want to know how your raw EMG signal looks like, follow this image below:
 
 <img src="images/SCOPE.png" alt="drawing" width="1000"/>
+
+## Videotutorial
+
+If you don't enjoy reading the documentantion go watch the tutorial below:
+
+[EMG-826 tutorial]()
