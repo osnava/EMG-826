@@ -1,4 +1,4 @@
-/*Use this code to calibrate your sensor. Know what's your minimum and maximum values.
+/*💪 Use this code to calibrate your sensor. Know what's your minimum and maximum values.
   
   @author   Oscar Navarrete 
 
