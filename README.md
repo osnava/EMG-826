@@ -11,7 +11,7 @@ IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
 YOU MUST BE INFORMED BEFORE USING IT. DON'T TAKE RISKS.
 READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS. 
 
-
+<img src="images/sensor.png" alt="drawing" width="300"/>
 
 
 ## Description
@@ -66,7 +66,7 @@ Choose a muscle and make sure your skin is dry and clean. Put one electrode **(r
 
 To connect the sensor to Arduino you just need to follow the instructions in every code [here](codes/). You can use the image below as reference to make the appropriate connections.
 
-
+<img src="images/arduino.png" alt="drawing" width="800"/>
 
 You can begin to use this sensor by uploading this [code](codes/Plot_Muscle/Plot_Muscle.ino) below:
 
@@ -95,7 +95,7 @@ void loop() {
 
 This sensor has a wide voltage supply range (5-9V). If you want to know how your raw EMG signal looks like, follow this image below:
 
-
+<img src="images/SCOPE.png" alt="drawing" width="1000"/>
 
 ## Videotutorial
 
