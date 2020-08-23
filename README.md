@@ -64,9 +64,9 @@ Choose a muscle and make sure your skin is dry and clean. Put one electrode **(r
 
 ## EMG-826 + Arduino
 
-To connect the sensor to Arduino you just need to follow the instructions in every code [here](codes/). You can use the image below as reference to make the appropriate connections.
+To connect the sensor to Arduino you just need to follow the instructions in every code [here](codes/). You can use the image below as reference to make the appropriate connections. **DO NOT FORGET TO CONNECT THE 1N5817 Schottky Diode**
 
-
+<img src="images/arduino_.png" alt="drawing" width="800"/>
 
 You can begin to use this sensor by uploading this [code](codes/Plot_Muscle/Plot_Muscle.ino) below:
 
