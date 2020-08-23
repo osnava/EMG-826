@@ -8,6 +8,7 @@ To have a better visualization experience use your :computer:
 ## :warning: WARNING :warning:
 THIS IS NOT A MEDICAL DEVICE.
 IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
+DO NOT IGNORE ANY OF THE INSTRUCTIONS GIVEN.
 YOU MUST BE INFORMED BEFORE USING IT. DON'T TAKE RISKS.
 READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS. 
 
@@ -16,7 +17,7 @@ READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS.
 
 ## Description
 
-In this repository you will find example [codes](codes/) to use your board. Stop complaining about using libraries, you don't need them: just plug and play!
+In this repository you will find example [codes](codes/) to use your board.
 
 EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (surface Electromyography) sensor fully compatible with:
 
@@ -26,9 +27,8 @@ EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (su
 * MSP430
 * and more...
 
-It has a variable resistor to amplify the output signal (Muscle pin). If you are curious about how a pure EMG signal looks, it has the Raw pin which can be attached to an oscilloscope to see the pure signal.
+It has a variable resistor (Gain) to amplify the output signal (Muscle pin). If you are curious about how a pure EMG signal looks, it has the Raw pin which can be attached to an oscilloscope.
 There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply. 
-If you want to use it with an Arduino board just connect 5V to the V+ pin and GND to GND pin. For the Raw signal you can supply up to 9V on the V+ pin.
 
 ## Muscle connections 
 
@@ -64,7 +64,7 @@ Choose a muscle and make sure your skin is dry and clean. Put one electrode **(r
 
 ## EMG-826 + Arduino
 
-To connect the sensor to Arduino you just need to follow the instructions in every code [here](codes/). You can use the image below as reference to make the appropriate connections. **DO NOT FORGET TO CONNECT THE 1N5817 Schottky Diode**
+To connect the sensor to Arduino you just need to follow the instructions in every code [here](codes/). You can use the image below as reference to make the appropriate connections. **DO NOT FORGET TO CONNECT THE [N5817 Schottky Diode](https://www.mccsemi.com/pdf/Products/1N5817-1N5819(DO-41).pdf)**
 
 <img src="images/arduino_.png" alt="drawing" width="800"/>
 
