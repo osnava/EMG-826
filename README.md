@@ -42,20 +42,21 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 
 #### Arm
 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image254.jpg" alt="drawing" width="50"/>  **Deltoid Muscle** 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image255.jpg" alt="drawing" width="50"/>  **Flexor Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image256.jpg" alt="drawing" width="50"/>  **Extensor Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image257.jpg" alt="drawing" width="50"/>  **Brachioradialis Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image258.jpg" alt="drawing" width="50"/>  **Extensor Muscle (Superficial Layer)** 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image259.jpg" alt="drawing" width="50"/>  **Flexor Muscle (Lower)**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image260.jpg" alt="drawing" width="50"/>  **Extensor Muscle (Deep Layer)**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image254.jpg" alt="drawing" width="25"/>  **Deltoid Muscle** 
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image255.jpg" alt="drawing" width="25"/>  **Flexor Muscle**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image256.jpg" alt="drawing" width="25"/>  **Extensor Muscle**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image257.jpg" alt="drawing" width="25"/>  **Brachioradialis Muscle**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image258.jpg" alt="drawing" width="25"/>  **Extensor Muscle (Superficial Layer)** 
+
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image259.jpg" alt="drawing" width="25"/>  **Flexor Muscle (Lower)**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image260.jpg" alt="drawing" width="25"/>  **Extensor Muscle (Deep Layer)**
 
 #### Hand
 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image261.jpg" alt="drawing" width="50"/>  **Thenar Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image262.jpg" alt="drawing" width="50"/>  **Hypothenar Muscle**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image261.jpg" alt="drawing" width="25"/>  **Thenar Muscle**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image262.jpg" alt="drawing" width="25"/>  **Hypothenar Muscle**
 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image263.jpg" alt="drawing" width="50"/>  **Dorsal Interosseous Muscle**
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image263.jpg" alt="drawing" width="25"/>  **Dorsal Interosseous Muscle**
 
 #### Electrodes
 
@@ -65,9 +66,11 @@ Choose a muscle and make sure your skin is dry and clean. Put one electrode **(r
 
 ## EMG-826 + Arduino
 
-To connect the sensor to Arduino you just need to follow the instructions in every [code](codes/). You can use the image below as reference to make the appropriate connections. **Do not forget to connect the N5817 Schottky [Diode](https://www.mccsemi.com/pdf/Products/1N5817-1N5819(DO-41).pdf) (included)**
+To connect the sensor to your Arduino you just need to follow the instructions in every [code](codes/). You can use the image below as reference to make the appropriate connections. **Do not forget to connect the [N5819](https://www.mouser.mx/datasheet/2/308/1N5817-D-1801388.pdf) Schottky Diode (included)**
 
-<img src="images/arduino_.png" alt="drawing" width="800"/>
+
+
+
 
 You can begin to use this sensor by uploading this [code](codes/Plot_Muscle/Plot_Muscle.ino) below:
 
