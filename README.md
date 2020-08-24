@@ -7,13 +7,10 @@ To have a better visualization experience use your :computer:
 
 ## :warning: WARNING :warning:
 THIS IS NOT A MEDICAL DEVICE.
-
 IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
-
 DO NOT IGNORE ANY OF THE INSTRUCTIONS GIVEN.
 
 YOU MUST BE INFORMED BEFORE USING IT. DON'T TAKE RISKS.
-
 READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS. 
 
 <img src="images/sensor.png" alt="drawing" width="300"/>
@@ -33,6 +30,8 @@ EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (su
 
 It has a variable resistor (Gain) to amplify the output signal (Muscle pin). If you are curious about how a pure EMG signal looks, it has the Raw pin which can be attached to an oscilloscope.
 There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply.
+
+
 
 
 ## Muscle connections 
