@@ -64,7 +64,7 @@ Choose a muscle and make sure your skin is dry and clean. Put one electrode **(r
 
 ## EMG-826 + Arduino
 
-To connect the sensor to Arduino you just need to follow the instructions in every code [here](codes/). You can use the image below as reference to make the appropriate connections. **DO NOT FORGET TO CONNECT THE [N5817 Schottky Diode](https://www.mccsemi.com/pdf/Products/1N5817-1N5819(DO-41).pdf)**
+To connect the sensor to Arduino you just need to follow the instructions in every [code](codes/). You can use the image below as reference to make the appropriate connections. **DO NOT FORGET TO CONNECT THE N5817 Schottky [Diode](https://www.mccsemi.com/pdf/Products/1N5817-1N5819(DO-41).pdf)**
 
 <img src="images/arduino_.png" alt="drawing" width="800"/>
 
@@ -99,6 +99,6 @@ This sensor has a wide voltage supply range (5-9V). If you want to know how your
 
 ## Videotutorial
 
-If you don't enjoy reading the documentantion go watch the tutorial below:
+To learn more about this sensor and its aplications, go watch the tutorial below:
 
 [EMG-826 tutorial]()
