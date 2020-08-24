@@ -40,7 +40,7 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image253.jpg" alt="drawing" width="420"/>
 
-#### Arm
+### Arm
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image254.jpg" alt="drawing" width="25"/>  **Deltoid Muscle** 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image255.jpg" alt="drawing" width="25"/>  **Flexor Muscle**
@@ -51,14 +51,14 @@ Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image259.jpg" alt="drawing" width="25"/>  **Flexor Muscle (Lower)**
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image260.jpg" alt="drawing" width="25"/>  **Extensor Muscle (Deep Layer)**
 
-#### Hand
+### Hand
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image261.jpg" alt="drawing" width="25"/>  **Thenar Muscle**
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image262.jpg" alt="drawing" width="25"/>  **Hypothenar Muscle**
 
 <img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image263.jpg" alt="drawing" width="25"/>  **Dorsal Interosseous Muscle**
 
-#### Electrodes
+### Electrodes
 
 <img src="images/electrodo_red.png" alt="drawing" width="100"/>   <img src="images/electrodo_blue.png" alt="drawing" width="100"/>   <img src="images/electrodo_black.png" alt="drawing" width="100"/>
 
@@ -66,10 +66,14 @@ Choose a muscle and make sure your skin is dry and clean. Put one electrode **(r
 
 ## EMG-826 + Arduino
 
-To connect the sensor to your Arduino you just need to follow the instructions in every [code](codes/). You can use the image below as reference to make the appropriate connections. **Do not forget to connect the [N5819](https://www.mouser.mx/datasheet/2/308/1N5817-D-1801388.pdf) Schottky Diode (included)**
+To connect the sensor to your Arduino you just need to follow the instructions in every [code](codes/). You can use the image below as reference to make the appropriate connections. **Do not forget to connect the [N5819](https://www.mouser.mx/datasheet/2/308/1N5817-D-1801388.pdf) Schottky Diode.**
 
+### Diode diagram
 
+<img src="images/diode.png" alt="drawing" width="250"/>
 
+### Arduino Connections
+<img src="images/arduino.png" alt="drawing" width="800"/>
 
 
 You can begin to use this sensor by uploading this [code](codes/Plot_Muscle/Plot_Muscle.ino) below:
