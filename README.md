@@ -7,9 +7,13 @@ To have a better visualization experience use your :computer:
 
 ## :warning: WARNING :warning:
 THIS IS NOT A MEDICAL DEVICE.
+
 IMPROPER USE OF THIS SENSOR COULD CAUSE HARM TO THE SUBJECT.
+
 DO NOT IGNORE ANY OF THE INSTRUCTIONS GIVEN.
+
 YOU MUST BE INFORMED BEFORE USING IT. DON'T TAKE RISKS.
+
 READ THE MANUAL AND DON'T HESITATE TO ASK QUESTIONS. 
 
 <img src="images/sensor.png" alt="drawing" width="300"/>
@@ -28,7 +32,8 @@ EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (su
 * and more...
 
 It has a variable resistor (Gain) to amplify the output signal (Muscle pin). If you are curious about how a pure EMG signal looks, it has the Raw pin which can be attached to an oscilloscope.
-There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply. 
+There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply.
+
 
 ## Muscle connections 
 
@@ -64,7 +69,7 @@ Choose a muscle and make sure your skin is dry and clean. Put one electrode **(r
 
 ## EMG-826 + Arduino
 
-To connect the sensor to Arduino you just need to follow the instructions in every [code](codes/). You can use the image below as reference to make the appropriate connections. **DO NOT FORGET TO CONNECT THE N5817 Schottky [Diode](https://www.mccsemi.com/pdf/Products/1N5817-1N5819(DO-41).pdf)**
+To connect the sensor to Arduino you just need to follow the instructions in every [code](codes/). You can use the image below as reference to make the appropriate connections. **Do not forget to connect the N5817 Schottky [Diode](https://www.mccsemi.com/pdf/Products/1N5817-1N5819(DO-41).pdf) (included)**
 
 <img src="images/arduino_.png" alt="drawing" width="800"/>
 
