@@ -17,6 +17,7 @@ Black | Bone
 Red   | Middle
 Blue  | End
 ---------------------------
+
 if you want to use Arduino's 5V use this:
 -------------------------
 Arduino | EMG-826 | Diodo
