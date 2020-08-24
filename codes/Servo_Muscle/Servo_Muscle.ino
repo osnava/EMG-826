@@ -16,24 +16,26 @@ Red   | Middle
 Blue  | End
 ---------------------------
 if you want to use Arduino's 5V use this:
----------------------------
-Arduino | EMG-826 |  SG90
----------------------------
-5V      |  V+*    |  Red
-GND     |  GND    |  Brown
-A0      |  Muscle |   -
-D3      |    -    |  Orange
----------------------------
+-------------------------------------
+Arduino | EMG-826 |  SG90   | Diode
+-------------------------------------
+5V      |  V+*    |  Red    |
+GND     |  GND    |  Brown  |
+        |  Muscle |   -     | Anode
+D3      |    -    |  Orange |
+A0      |         |         | Cathode
+-------------------------------------
 
 if you want to use external supply just make sure to have all GNDs connected:
-------------------------------------------
-External Supply | Arduino | EMG-826 | SG90**
-------------------------------------------
-      GND       |   GND   |  GND    | Brown
-      V+*       |    -    |  V+*    | Red
-       -        |   A0    |  Muscle |   -
-       -        |   D3    |     -   | Orange
------------------------------------       
+------------------------------------------------------
+External Supply | Arduino | EMG-826 | SG90** | Diode
+------------------------------------------------------
+      GND       |   GND   |  GND    | Brown  | 
+      V+*       |    -    |  V+*    | Red    |
+       -        |         |  Muscle |   -    | Anode
+       -        |   D3    |     -   | Orange |
+                |   A0    |         |        | Cathode
+------------------------------------------------------      
 *V+ can work with 5-9V range but you must not exceed 5V when using a microncontroller
 like Arduino UNO, Nano, Mega.
 **If you are going to use a servo motor use V+ = 5V.
