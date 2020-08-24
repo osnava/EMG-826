@@ -31,7 +31,7 @@ EMG-826 it's a [sEMG](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3821366/) (su
 It has a variable resistor (Gain) to amplify the output signal (Muscle pin). If you are curious about how a pure EMG signal looks, it has the Raw pin which can be attached to an oscilloscope.
 There's no need to use dual voltage supply thanks to it's IC that converts single to dual supply.
 
-<img src="images/Table_.png" alt="drawing" width="500"/>
+
 
 
 ## Muscle connections 
