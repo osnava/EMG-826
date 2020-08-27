@@ -7,7 +7,7 @@ Arduino UNO   https://bit.ly/30Axk7l
 Arduino NANO  https://bit.ly/31uYJH1
 Arduino MEGA  https://bit.ly/3fxND9e
 EMG-826       https://bit.ly/3g4P3YV
-Diodo         DATASHEET
+Diodo 1N5819  https://bit.ly/2QxgHUg
 
 -Connections:
 ---------------------------
@@ -20,7 +20,7 @@ Blue  | End
 
 if you want to use Arduino's 5V use this:
 -------------------------
-Arduino | EMG-826 | Diodo
+Arduino | EMG-826 | 1N5819
 -------------------------
 5V      |  V+*    |
 GND     |  GND    |
@@ -30,7 +30,7 @@ A0      |         | Cathode
 
 if you want to use external supply just make sure to have all GNDs connected:
 ---------------------------------------------
-External Supply | Arduino | EMG-826 | Diode
+External Supply | Arduino | EMG-826 | 1N5819
 ---------------------------------------------
       GND       |   GND   |  GND    |
       V+*       |         |  V+*    |
