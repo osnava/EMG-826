@@ -9,7 +9,7 @@ Arduino NANO  https://bit.ly/31uYJH1
 Arduino MEGA  https://bit.ly/3fxND9e
 L298N         https://bit.ly/3aBUjlF
 EMG-826       https://bit.ly/3g4P3YV
-
+1N5819        https://bit.ly/2QxgHUg
 
 -Connections:
 ---------------------------
