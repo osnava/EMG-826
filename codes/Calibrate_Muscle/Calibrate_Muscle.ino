@@ -7,7 +7,7 @@ Arduino UNO   https://bit.ly/30Axk7l
 Arduino NANO  https://bit.ly/31uYJH1
 Arduino MEGA  https://bit.ly/3fxND9e
 EMG-826       https://bit.ly/3g4P3YV
-Diodo 1N5819  https://bit.ly/2QxgHUg
+1N5819 Diode  https://bit.ly/2QxgHUg
 
 -Connections:
 ---------------------------
