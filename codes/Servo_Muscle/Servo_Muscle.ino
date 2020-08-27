@@ -6,6 +6,7 @@ Arduino NANO  https://bit.ly/31uYJH1
 Arduino MEGA  https://bit.ly/3fxND9e
 EMG-826       https://bit.ly/3g4P3YV
 SG90          https://bit.ly/30A7gJw
+1N5819        https://bit.ly/2QxgHUg
 
 -Connections:
 ---------------------------
@@ -17,7 +18,7 @@ Blue  | End
 ---------------------------
 if you want to use Arduino's 5V use this:
 -------------------------------------
-Arduino | EMG-826 |  SG90   | Diode
+Arduino | EMG-826 |  SG90   | 1N5819
 -------------------------------------
 5V      |  V+*    |  Red    |
 GND     |  GND    |  Brown  |
@@ -28,7 +29,7 @@ A0      |         |         | Cathode
 
 if you want to use external supply just make sure to have all GNDs connected:
 ------------------------------------------------------
-External Supply | Arduino | EMG-826 | SG90** | Diode
+External Supply | Arduino | EMG-826 | SG90** | 1N5819
 ------------------------------------------------------
       GND       |   GND   |  GND    | Brown  | 
       V+*       |    -    |  V+*    | Red    |
