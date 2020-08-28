@@ -48,4 +48,5 @@ void setup() {
 void loop() {
   Muscle = analogRead(A0); //Here A0 was chosen but you can choose any analog channel.
   Serial.println(Muscle); //Red signal
+  delay(50);
 }
