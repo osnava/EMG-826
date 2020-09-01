@@ -38,25 +38,8 @@ There's no need to use dual voltage supply thanks to it's IC that converts singl
 
 Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-human-anatomy-motion/7.html#:~:text=MUSCLE%20DIAGRAM)
 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image253.jpg" alt="drawing" width="420"/>
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image251.jpg" alt="drawing" width="700"/>
 
-### Arm
-
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image254.jpg" alt="drawing" width="25"/>  **Deltoid Muscle** 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image255.jpg" alt="drawing" width="25"/>  **Flexor Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image256.jpg" alt="drawing" width="25"/>  **Extensor Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image257.jpg" alt="drawing" width="25"/>  **Brachioradialis Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image258.jpg" alt="drawing" width="25"/>  **Extensor Muscle (Superficial Layer)** 
-
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image259.jpg" alt="drawing" width="25"/>  **Flexor Muscle (Lower)**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image260.jpg" alt="drawing" width="25"/>  **Extensor Muscle (Deep Layer)**
-
-### Hand
-
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image261.jpg" alt="drawing" width="25"/>  **Thenar Muscle**
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image262.jpg" alt="drawing" width="25"/>  **Hypothenar Muscle**
-
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image263.jpg" alt="drawing" width="25"/>  **Dorsal Interosseous Muscle**
 
 ### Electrodes
 
