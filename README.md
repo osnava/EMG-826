@@ -38,7 +38,7 @@ There's no need to use dual voltage supply thanks to it's IC that converts singl
 
 Read this: [Muscles of the Arm and Hand](https://doctorlib.info/anatomy/classic-human-anatomy-motion/7.html#:~:text=MUSCLE%20DIAGRAM)
 
-<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image251.jpg" alt="drawing" width="700"/>
+<img src="https://doctorlib.info/anatomy/classic-human-anatomy-motion/classic-human-anatomy-motion.files/image251.jpg" alt="drawing" width="750"/>
 
 
 ### Electrodes
