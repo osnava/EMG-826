@@ -92,4 +92,5 @@ This sensor has a wide voltage supply range (5-9V). If you want to know how your
 
 To learn more about this sensor and its aplications, go watch the tutorial below:
 
-[EMG-826 tutorial]()
+[![EMG-826 tutorial](https://img.youtube.com/vi/_hn0KZnbNZc/hqdefault.jpg)](https://youtu.be/_hn0KZnbNZc)
+
